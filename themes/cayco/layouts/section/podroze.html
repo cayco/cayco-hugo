@@ -1,0 +1,28 @@
+{{ partial "header.html" . }}
+
+    <section id="title" class="emerald">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>{{ .Title }}</h1>
+                    <p>{{ .Description }}</p>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="breadcrumb pull-right">
+                        <li><a href="{{ .Site.BaseURL }}">Strona główna</a></li>
+                        <li class="active">{{ .Title }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!--/#title-->     
+
+    <section id="blog" class="container">
+
+  {{ range first 10 .Data.Pages }}
+    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+  {{ end }}       
+        
+    </section><!--/#blog--> 
+
+{{ partial "footer.html" . }}
