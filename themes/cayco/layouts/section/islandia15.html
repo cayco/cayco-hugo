@@ -16,13 +16,117 @@
             </div>
         </div>
     </section><!--/#title-->     
+<section id="blog" class="container">
+        <div class="row">
+            <aside class="col-sm-4 col-sm-push-8">
+                <div class="widget search">
+                    <form role="form">
+                        <div class="input-group">
+                            <input type="text" class="form-control" autocomplete="off" placeholder="Search">
+                            <span class="input-group-btn">
+                                <button class="btn btn-danger" type="button"><i class="icon-search"></i></button>
+                            </span>
+                        </div>
+                    </form>
+                </div><!--/.search-->
 
-    <section id="blog" class="container">
+                <div class="widget ads">
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad1.png" alt=""></a>
+                        </div>
 
-  {{ range first 10 .Data.Pages }}
-    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-  {{ end }}       
-        
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad2.png" alt=""></a>
+                        </div>
+                    </div>
+                    <p> </p>
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad3.png" alt=""></a>
+                        </div>
+
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad4.png" alt=""></a>
+                        </div>
+                    </div>
+                </div><!--/.ads-->     
+
+<!--
+                <div class="widget categories">
+                    <h3>Blog Categories</h3>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <ul class="arrow">
+                                <li><a href="#">Development</a></li>
+                                <li><a href="#">Design</a></li>
+                                <li><a href="#">Updates</a></li>
+                                <li><a href="#">Tutorial</a></li>
+                                <li><a href="#">News</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-6">
+                            <ul class="arrow">
+                                <li><a href="#">Joomla</a></li>
+                                <li><a href="#">Wordpress</a></li>
+                                <li><a href="#">Drupal</a></li>
+                                <li><a href="#">Magento</a></li>
+                                <li><a href="#">Bootstrap</a></li>
+                            </ul>
+                        </div>
+                    </div>                     
+                </div><!--/.categories-->
+
+                <div class="widget tags">
+                    
+                    <h3>Tagi</h3>
+                    <ul class="tag-cloud">
+                        {{ range $tagi, $taxonomy := $.Site.Taxonomies.tagi }}
+                        <li><a class="btn btn-xs btn-primary" href="/tagi/{{ $tagi }}">{{ $tagi }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div><!--/.tags-->
+
+                <div class="widget facebook-fanpage">
+                    <h3>Facebook </h3>
+                    <div class="widget-content">
+                        <div class="fb-like-box" data-href="https://www.facebook.com/shapebootstrap" data-width="292" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+                    </div>
+                </div>
+            </aside>        
+            <div class="col-sm-8 col-sm-pull-4">
+                <div class="blog">
+  {{ range first 5 .Data.Pages.ByDate }}
+                    <div class="blog-item">
+                        <img class="img-responsive img-blog" src="{{ .Params.image }}" width="100%" alt="" />
+                        <div class="blog-content">
+                            <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+                            <div class="entry-meta">
+                                <span><i class="icon-user"></i> <a href="#">cayco</a></span>
+                                <span><i class="icon-folder-close"></i> <a href="#">Bootstrap</a></span>
+                                <span><i class="icon-calendar"></i> {{ .Date.Format "2006-01-02" }}</span>
+<!--                                <span><i class="icon-comment"></i> <a href="blog-item.html#comments">3 Comments</a></span> -->
+                            </div>
+                            <p>{{ .Summary }}.</p>
+                            <a class="btn btn-default" href="{{ .Permalink }}">Dalej <i class="icon-angle-right"></i></a>
+                        </div>
+                    </div><!--/.blog-item-->
+{{ end }}
+                    
+                    <ul class="pagination pagination-lg">
+                        <li><a href="#"><i class="icon-angle-left"></i></a></li>
+                        <li class="active"><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#"><i class="icon-angle-right"></i></a></li>
+                    </ul><!--/.pagination-->
+                </div>
+            </div><!--/.col-md-8-->
+        </div><!--/.row-->
     </section><!--/#blog-->
+
+
 
 {{ partial "footer.html" . }}
