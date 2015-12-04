@@ -96,31 +96,43 @@
             </aside>        
             <div class="col-sm-8 col-sm-pull-4">
                 <div class="blog">
-  {{ range first 5 .Data.Pages.ByDate }}
+
+{{ $paginator := .Paginate .Data.Pages }}
+
+{{ range .Paginator.Pages.ByDate }}
+
                     <div class="blog-item">
                         <img class="img-responsive img-blog" src="{{ .Params.image }}" width="100%" alt="" />
                         <div class="blog-content">
                             <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
                             <div class="entry-meta">
                                 <span><i class="icon-user"></i> <a href="#">cayco</a></span>
-                                <span><i class="icon-folder-close"></i> <a href="#">Bootstrap</a></span>
+                              {{ range .Params.tagi }}
+                                <span><i class="icon-folder-close"></i> <a href="/tagi/{{ . }}">{{ . }}</a></span>
+                                {{ end }}
                                 <span><i class="icon-calendar"></i> {{ .Date.Format "2006-01-02" }}</span>
 <!--                                <span><i class="icon-comment"></i> <a href="blog-item.html#comments">3 Comments</a></span> -->
                             </div>
                             <p>{{ .Summary }}.</p>
                             <a class="btn btn-default" href="{{ .Permalink }}">Dalej <i class="icon-angle-right"></i></a>
                         </div>
-                    </div><!--/.blog-item-->
+                    </div><!--/.blog-item-->                                                                            
+ {{ end }}                                      
+                                      
+                                       
+                    <ul class="pagination pagination-lg">  
+{{ if $paginator.HasNext }}
+  <li><a class="pagination-item older" href="{{ $paginator.Next.URL }}">Starsze<i class="icon-angle-left"></i></a></li>
+{{ else }}
+  <li><span class="pagination-item older">Starsze</span></li>
 {{ end }}
-                    
-                    <ul class="pagination pagination-lg">
-                        <li><a href="#"><i class="icon-angle-left"></i></a></li>
-                        <li class="active"><a href="#">1</a></li>
-                        <li><a href="#">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">4</a></li>
-                        <li><a href="#">5</a></li>
-                        <li><a href="#"><i class="icon-angle-right"></i></a></li>
+
+{{ if $paginator.HasPrev }}
+  <li><a class="pagination-item newer" href="{{ $paginator.Prev.URL }}">Nowsze<i class="icon-angle-right"></i></a></li>
+{{ else }}
+  <li><span class="pagination-item newer">Nowsze</span></li>
+{{ end }}
+
                     </ul><!--/.pagination-->
                 </div>
             </div><!--/.col-md-8-->

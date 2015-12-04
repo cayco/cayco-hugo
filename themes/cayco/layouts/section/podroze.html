@@ -4,25 +4,98 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <h1>{{ .Title }}</h1>
-                    <p>{{ .Description }}</p>
+                    <h1>Moje podróże</h1>
+                    <p>Czyli gdzie już byłem i mnie jeszcze nie było...</p>
                 </div>
                 <div class="col-sm-6">
                     <ul class="breadcrumb pull-right">
                         <li><a href="{{ .Site.BaseURL }}">Strona główna</a></li>
-                        <li class="active">{{ .Title }}</li>
+                        <li class="active">Moje podróże</li>
                     </ul>
                 </div>
             </div>
         </div>
     </section><!--/#title-->     
+<section id="blog" class="container">
+        <div class="row">
+            <aside class="col-sm-4 col-sm-push-8">
+                <div class="widget search">
+                    <form role="form">
+                        <div class="input-group">
+                            <input type="text" class="form-control" autocomplete="off" placeholder="Search">
+                            <span class="input-group-btn">
+                                <button class="btn btn-danger" type="button"><i class="icon-search"></i></button>
+                            </span>
+                        </div>
+                    </form>
+                </div><!--/.search-->
 
-    <section id="blog" class="container">
+                <div class="widget ads">
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad1.png" alt=""></a>
+                        </div>
 
-  {{ range first 10 .Data.Pages }}
-    <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-  {{ end }}       
-        
-    </section><!--/#blog--> 
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad2.png" alt=""></a>
+                        </div>
+                    </div>
+                    <p> </p>
+                    <div class="row">
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad3.png" alt=""></a>
+                        </div>
+
+                        <div class="col-xs-6">
+                            <a href="#"><img class="img-responsive img-rounded" src="/img/ads/ad4.png" alt=""></a>
+                        </div>
+                    </div>
+                </div><!--/.ads-->     
+
+<!--
+                <div class="widget categories">
+                    <h3>Blog Categories</h3>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <ul class="arrow">
+                                <li><a href="#">Development</a></li>
+                                <li><a href="#">Design</a></li>
+                                <li><a href="#">Updates</a></li>
+                                <li><a href="#">Tutorial</a></li>
+                                <li><a href="#">News</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-sm-6">
+                            <ul class="arrow">
+                                <li><a href="#">Joomla</a></li>
+                                <li><a href="#">Wordpress</a></li>
+                                <li><a href="#">Drupal</a></li>
+                                <li><a href="#">Magento</a></li>
+                                <li><a href="#">Bootstrap</a></li>
+                            </ul>
+                        </div>
+                    </div>                     
+                </div><!--/.categories-->
+
+  
+
+            </aside>        
+            <div class="col-sm-8 col-sm-pull-4">
+                <div class="blog">
+
+{{ range $miejsca, $taxonomy := $.Site.Taxonomies.miejsca }}
+                    <div class="blog-item">
+                        <div class="blog-content">
+                            <a href="/{{ $miejsca }}"><h3>{{ $miejsca }}</h3></a>
+                        </div>
+                    </div><!--/.blog-item-->                                                                            
+{{ end }}                                      
+                                      
+                </div>
+            </div><!--/.col-md-8-->
+        </div><!--/.row-->
+    </section><!--/#blog-->
+
+
 
 {{ partial "footer.html" . }}

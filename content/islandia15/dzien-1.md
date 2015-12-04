@@ -3,6 +3,7 @@ date = "2015-08-20"
 title = "Dni 1 i 2 - dojazd do Danii"
 image = "https://farm1.staticflickr.com/703/21541185630_395b46d3ff_c.jpg"
 tagi = [ "Islandia", "wyprawy", "motocykl" ]
+miejsca = "Islandia"
 
 +++
 
