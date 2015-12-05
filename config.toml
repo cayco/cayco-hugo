@@ -2,7 +2,7 @@ baseurl = "http://www.cayco.pl/"
 languageCode = "pl-PL"
 title = "cayco"
 theme = "cayco"
-disqusShortname = "cayco.pl"
+disqusShortname = "krzysztofkajkowski"
 
 [taxonomies]
 tag = "tagi"
