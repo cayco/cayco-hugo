@@ -4,6 +4,9 @@ title = "cayco"
 theme = "cayco"
 disqusShortname = "krzysztofkajkowski"
 
+pluralizelisttitles = "false"
+
+
 [taxonomies]
 tag = "tagi"
 miejsce = "miejsca"
