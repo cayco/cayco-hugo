@@ -20,7 +20,7 @@ To spowodowało, że ostatecznie to mam 3 śpiwory:
 
 - [lekki na lato]({{< ref "#cumulus-xlite" >}})
 - taki sobie, syntetyk z GoSportu czy innego Decathlonu na wyjazdy samochodowe na lato
-- [cieplejszy]({{< ref "#cumulus-panyam" >}})) na temperatury około zera
+- [cieplejszy]({{< ref "#cumulus-panyam" >}}) na temperatury około zera
 
 W zimę nie śpię często pod namiotem ale jeśli trzeba biorę dwa śpiwory puchowe i to mi zwykle wystarcza.
 
