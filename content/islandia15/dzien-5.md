@@ -1,5 +1,5 @@
 +++
-date = "2015-12-04T13:59:06+01:00"
+date = "2015-08-12T13:59:06+01:00"
 title = "Dzień 5 - do Asbyrgi"
 image = "https://farm6.staticflickr.com/5711/20771076878_20af45b674_c.jpg"
 lead = "Pierwszy dzień na wyspie był dniem na rozgrzewkę i potwierdzeniem, że mój sprzęt daje tutaj radę."

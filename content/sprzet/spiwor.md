@@ -2,6 +2,7 @@
 date = "2015-12-05T16:22:51+01:00"
 title = "Śpiwór"
 tagi = [ "sprzęt" ]
+image = "http://www.cayco.pl/img/2015-12-06-5.png"
 lead = "Od jakości śpiwora zależy jak się wyśpisz. A jak się nie wyśpisz to następnego dnia zobaczysz mniej... "
 
 +++
@@ -15,7 +16,7 @@ Moje priorytety przy doborze to:
 * niska waga
 * mała objętość
 
-Przez to mam 3 śpiwory:
+To spowodowało, że ostatecznie to mam 3 śpiwory:
 
 - [lekki na lato]({{< ref "#cumulus-xlite" >}})
 - taki sobie, syntetyk z GoSportu czy innego Decathlonu na wyjazdy samochodowe na lato
@@ -37,13 +38,13 @@ Firma Cumulus produkuje jedne z najlepszych śpiworów na świecie. Jakość nas
 
 Akurat mój model był śpiworem bez suwaka ale za to miał kaptur. Aktualne go nie mają więc w razie zimniejszych nocy będą trochę chłodniejsze.
 
-Jeśli chodzi o temperatury to tak od ok. 10C do 20C jest mi w nim dość komfortowo. Poniżej muszę coś zakładać na siebie lub użyć [wkładki Reactor]({{< ref "#wkladki" >}})
+Jeśli chodzi o temperatury to tak od ok. 10C do 20C jest mi w nim dość komfortowo. Poniżej muszę coś zakładać na siebie lub użyć [wkładki Reactor]({{< ref "#wkladki" >}}).
 
 Mogę go z czystym sumieniem polecić każdemu komu nie przeszkadza brak suwaka i szuka czegoś lekkiego na rower, motocykl albo piesze wędrówki.
 
 ### Śpiwór Cumulus Panyam 450{#cumulus-panyam}
 
-![Panyam](http://www.cayco.pl/img/2015-12-06-2.png)
+![Panyam](http://www.cayco.pl/img/2015-12-06-5.png)
 
 [Śpiwór Cumulus Panyam 450](http://cumulus.pl/pl/kategorie/spiwory/panyam-450?gid=21&vid=6) To jeden z nielicznych śpiworów lżejszych niż 1kg, który sprawdzi się w zimne jesienne i wiosenne dni. Daje też radę ciepłą zimą. Używałem go też w lecie gdy temperatura spadała do 10-15C i było bardzo komfortowo. Jest to mój najbardziej uniwersalny śpiwór.
 

@@ -1,5 +1,5 @@
 +++
-date = "2015-12-04T07:39:51+01:00"
+date = "2015-08-12T07:39:51+01:00"
 title = "Dzień 3 i 4"
 tagi = [ "Islandia", "wyprawy", "motocykl" ]
 image = "https://farm6.staticflickr.com/5677/21169619316_82506cd827_c.jpg"

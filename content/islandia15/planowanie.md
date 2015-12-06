@@ -1,19 +1,20 @@
 +++
-date = "2015-08-08"
+date = "2015-06-08"
 title = "Planowanie Islandii"
 tagi = [ "Islandia", "wyprawy", "planowanie", "motocykl"]
+image = "http://www.cayco.pl/img/2015-12-06-3.png"
 lead = "Plany o Islandii miałem już od kilku lat. Na początku miałem jechać tam sam rowerem. Nie wypaliło bo zmieniłem pracę. Później z kolegą chcieliśmy wybrać się motocyklem ale ostatecznie pojechaliśmy do Norwegii. W tym roku wreszcie się udało!"
 
 +++
 
                         
 
-#### Trasa
+### Trasa
 Zacząłem kilka miesięcy wcześniej żeby się nie zaskoczyć. Narysowałem na mapie co chciałbym zobaczyć i połączyłem punkty w miarę logicznymi punktami:
 
 {{< gpsies uajvjqmutymkiwbi >}}
 
-#### Sprzęt
+### Sprzęt
 Trochę rzeczy (np. aluminiowe śledzie do namiotu albo gniazdu z wyjściem USB na motocykl kupiłem na Aliexpress - polecam jakby ktoś nie znał. Tylko nie kupujcie najtańszego bo można niezły szajs dostać...
 
 Resztę miałem i praktycznie wszystko co wziąłem do Norwegii przydało się tutaj. Na <a href="sprzet_wyprawowy">stronie ze sprzętem wyprawowym</a> możesz poczytać o szczegółach. Z różnic i nowości:
@@ -26,12 +27,14 @@ Resztę miałem i praktycznie wszystko co wziąłem do Norwegii przydało się 
 - <strong>dętka 21"</strong> - jak wyczytałem takie dętki jest bardzo ciężko skutecznine załatać w trasie (szczególnie w terenie). Więc zalecane jest aby brać ze sobę co najmniej jedną (większą). 
 - Fabyczne opony Continental TKC-80 na tył i Heidenau K60 na przód. Opony dualowe to bardzo dobry wybór na tę wyprawę. 50% asfalt i 50% szuter (poza dojazdem w Europie).
 
+Cały spis mojego sprzętu będą wrzucał w [sekcji sprzęt](/sprzet/).
 
-#### Dojazd                             
+
+### Dojazd                             
 
 Wtedy najtaniej z motocyklem wychodziło dostać się tam promem (630€ w dwie strony). W Smyrril Line zwykle na wiosnę mają promocję w ramach której nie płaci się za motocykl na promie. Jest tylko jeden warunek - trzeba być 3d na Wyspach Owczych. Z przyczepką jest drożej bo więcej pali i w Polsce np. na A2 winiety jednak trochę kosztują. Jeśli nie mamy gdzie zostawić przyczepki to parking też będzie kosztował a na prom to już wogóle lepiej się z przyczepką nie pchać.
 
-#### Budżet
+### Budżet
                         
 Generalnie przyjąłem strategię nie kupowania nic na miejscu oprócz:
 
@@ -51,6 +54,6 @@ Koszty w planie minimum rozplanowałem sobie tak:
 
 I jak przeliczałem na końcu wyszło mnie 1000zł więcej ponad ten plan.
 
-#### Na zachętę - trailer
+### Na zachętę - trailer
 
 {{< vimeo 139790652  >}}
