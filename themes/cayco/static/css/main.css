@@ -69,6 +69,7 @@ a:focus {
   color: #d9534f;
   text-decoration: none;
   outline: none;
+    text-decoration: underline;;
 }
 .dropdown-menu {
   margin-top: -1px;
@@ -1014,7 +1015,11 @@ ul.social > li > a:hover {
   padding: 20px;
 }
 .blog .blog-item h3 {
-  margin-top: 0;
+  margin-top: 20px;
+}
+.blog .blog-item a {
+  text-decoration: underline;    
+
 }
 .blog .blog-item .entry-meta {
   margin-bottom: 20px;

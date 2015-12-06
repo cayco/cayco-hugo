@@ -12,3 +12,4 @@ descrition = "Jak się ze mną skontaktować"
 - [LinkedIn](https://pl.linkedin.com/in/cayco)
 - [Facebook](https://www.facebook.com/krzysztof.kajkowski)
 - [Google+](https://plus.google.com/+KrzysztofKajkowski/posts)
+- [Skype](skype:krzysztofkajkowski)
