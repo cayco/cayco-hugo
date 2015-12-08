@@ -1,7 +1,8 @@
 +++
 date = "2015-08-12T07:39:51+01:00"
-title = "Dzień 3 i 4"
+title = "Dzień 3 i 4 - na promie"
 tagi = [ "Islandia", "wyprawy", "motocykl" ]
+miejsca = "Islandia"
 image = "https://farm6.staticflickr.com/5677/21169619316_82506cd827_c.jpg"
 lead = "Życie na promie toczy się powoli. Przejście z trybu codziennej gonitwy do trybu \"nie da się robić nic\" jest niezłym szokiem."
 
