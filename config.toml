@@ -1,4 +1,4 @@
-baseurl = "http://www.cayco.pl/"
+baseurl = "https://www.cayco.pl/"
 languageCode = "pl-PL"
 title = "cayco"
 theme = "cayco"
