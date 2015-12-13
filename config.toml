@@ -1,12 +1,14 @@
 baseurl = "https://www.cayco.pl/"
 languageCode = "pl-PL"
-title = "cayco"
+title = "Krzysztof Kajkowski: podróże i wyprawy. Motocyklowe i nie tylko."
 theme = "cayco"
 disqusShortname = "krzysztofkajkowski"
-
 pluralizelisttitles = "false"
 
 
 [taxonomies]
 tag = "tagi"
 miejsce = "miejsca"
+
+[params]
+    description = "Strona domowa Krzysztof Kajkowski (cayco). Relacje z wypraw motocyklowych i innych. Opisy sprzętu wyprawowego. Porady - co zabrać ze sobą na wyjazd do... Fotografia podróżna. Zapraszam!"
