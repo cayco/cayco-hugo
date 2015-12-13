@@ -7,7 +7,7 @@ miejsca = "Islandia"
 
 +++
 
-W sumie to nie zdecydowałem się jeszcze co było nudniejsze - dojazd do promu czy sama podróż promem. Jako, że dzień przed wyjazdem byłem na weselu (wróciłem o 3 nad ranem) to pierwszego dnia udało mi się dojechać w okolice Berlina na jakiś wiejski kemping:</p>
+W sumie to nie zdecydowałem się jeszcze co było nudniejsze - dojazd do promu czy sama podróż promem. Jako, że dzień przed wyjazdem byłem na weselu (wróciłem o 3 nad ranem) to pierwszego dnia udało mi się dojechać w okolice Berlina na jakiś wiejski kemping.
 
 Kemping był głownie dla karawanów i stacjonarnych tubylców więc o 22 gdy tam przyjechałem nie było żywej duszy w recepcji. Rano też nie :)
 

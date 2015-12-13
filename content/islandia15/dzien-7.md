@@ -1,7 +1,7 @@
 +++
-date = "2015-08-12T13:59:06+01:00"
+date = "2015-08-15T13:59:06+01:00"
 title = "Dzień 7 - przez interior"
-image = "https://farm6.staticflickr.com/5711/20771076878_20af45b674_c.jpg"
+image = "https://farm1.staticflickr.com/688/21185679542_fd8e497e0d_z.jpg"
 lead = "Ten dzień był przeznaczony na jeden cel - przejechać przez interior."
 tagi = [ "Islandia", "wyprawy", "motocykl" ]
 miejsca = "Islandia"

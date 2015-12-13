@@ -1,7 +1,7 @@
 +++
-date = "2015-08-12T13:59:06+01:00"
+date = "2015-08-14T13:59:06+01:00"
 title = "Dzień 6 - północ"
-image = "https://farm6.staticflickr.com/5711/20771076878_20af45b674_c.jpg"
+image = "https://farm6.staticflickr.com/5702/20719738839_b7fe7c3e3d_z.jpg"
 lead = "Drugiego dnia celem było obejrzenie na spokojnie wąwozu Asbyrgi a później jeziora Myvatn."
 tagi = [ "Islandia", "wyprawy", "motocykl" ]
 miejsca = "Islandia"
@@ -51,7 +51,7 @@ Nie zdecydowałem się z której strony wyglądał fajniej...
            "https://www.flickr.com/photos/cayco/20573276234/"
            "https://farm1.staticflickr.com/772/20573276234_919e7c565d_z.jpg" %}}
            
-Dalej droga nr 1 prowadziła do regionu dużej aktywności wulkanicznej.
+Dalej droga nr 1 prowadziła do regionu dużej aktywności wulkanicznej - Námafjall.
 
 {{% flickr "Námafjall"
            ""

@@ -17,7 +17,7 @@ Zacząłem kilka miesięcy wcześniej żeby się nie zaskoczyć. Narysowałem na
 ### Sprzęt
 Trochę rzeczy (np. aluminiowe śledzie do namiotu albo gniazdu z wyjściem USB na motocykl kupiłem na Aliexpress - polecam jakby ktoś nie znał. Tylko nie kupujcie najtańszego bo można niezły szajs dostać...
 
-Resztę miałem i praktycznie wszystko co wziąłem do Norwegii przydało się tutaj. Na <a href="sprzet_wyprawowy">stronie ze sprzętem wyprawowym</a> możesz poczytać o szczegółach. Z różnic i nowości:
+Resztę miałem i praktycznie wszystko co wziąłem do Norwegii przydało się tutaj. Na [stronie ze sprzętem wyprawowym](/sprzet/) możesz poczytać o szczegółach. Z różnic i nowości:
 
 - [<strong>Mata dmuchana Klymit Inertia XL</strong>](http://www.klymit.com/index.php/inertia-xl.html)
 - Cięższe niż zwykle - podejściowe [<strong>Salewa Firetail</strong>](http://www.salewa.us/en/men-firetail-evo-shoes.html?color=9447). Na Islandzkie chłody to był dobry wybór. W sandałach byłoby ekstremalnie.
@@ -42,7 +42,7 @@ Generalnie przyjąłem strategię nie kupowania nic na miejscu oprócz:
 - paliwa
 - okazjonalnie świeżych owoców
 
-Na Islandii prawie nie używa się gotówki a czytniki kart zbliżeniowych były nawet przy wejściu do kibla, przy Geysirze.
+Na Islandii prawie nie używa się gotówki a czytniki kart zbliżeniowych były nawet przy [wejściu do kibla, przy Geysirze]({{< ref "dzien-7.md" >}}).
 
 Koszty w planie minimum rozplanowałem sobie tak:
 - Paliwo dojazd 703 zł

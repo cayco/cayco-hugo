@@ -31,7 +31,7 @@ Niektóre naprawdę małe:
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/cayco/21007781500/in/album-72157657836529005/" title="Little"><img src="https://farm1.staticflickr.com/741/21007781500_664d2641ee_c.jpg" width="800" height="534" alt="Little" class="img-responsive img-blog"></a>
 
-Prom najpierw cumuje w Torshavn
+Prom najpierw cumuje w [Tórshavn](https://pl.wikipedia.org/wiki/Thorshavn)
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/cayco/21564389950/in/album-72157657836529005/" title="DSC00032"><img src="https://farm1.staticflickr.com/686/21564389950_cc68dce419_c.jpg" width="800" height="534" alt="DSC00032" class="img-responsive img-blog"></a>
                              

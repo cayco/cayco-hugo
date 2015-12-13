@@ -49,14 +49,8 @@
            ""
            "https://www.flickr.com/photos/cayco/21008135718/"
            "https://farm6.staticflickr.com/5806/21008135718_2aa951c17d_z.jpg" %}}
-{{% flickr "Dreamy"
-           ""
-           "https://www.flickr.com/photos/cayco/20573354984/"
-           "https://farm6.staticflickr.com/5727/20573354984_09dcfb8e1b_z.jpg" %}}
-{{% flickr "Road to the Moon"
-           ""
-           "https://www.flickr.com/photos/cayco/20913004111/"
-           "https://farm6.staticflickr.com/5758/20913004111_ceebbe3c60_z.jpg" %}}
+
+
 {{% flickr "Cliffs"
            ""
            "https://www.flickr.com/photos/cayco/21185552922/"
@@ -69,10 +63,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21129713804/"
            "https://farm6.staticflickr.com/5702/21129713804_278c70dc05_z.jpg" %}}
-{{% flickr "Desert's peaks"
-           ""
-           "https://www.flickr.com/photos/cayco/21008120578/"
-           "https://farm1.staticflickr.com/578/21008120578_a16b7129cc_z.jpg" %}}
+
 {{% flickr "Into the blue"
            ""
            "https://www.flickr.com/photos/cayco/21008011300/"
@@ -130,10 +121,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21009237239/"
            "https://farm6.staticflickr.com/5684/21009237239_284026e07e_z.jpg" %}}
-{{% flickr "Desert"
-           ""
-           "https://www.flickr.com/photos/cayco/21203906901/"
-           "https://farm1.staticflickr.com/571/21203906901_1e98f06547_z.jpg" %}}
+
 {{% flickr "The road"
            ""
            "https://www.flickr.com/photos/cayco/20771076878/"
@@ -146,10 +134,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21169619316/"
            "https://farm6.staticflickr.com/5677/21169619316_82506cd827_z.jpg" %}}
-{{% flickr "Sulfur"
-           ""
-           "https://www.flickr.com/photos/cayco/21009211129/"
-           "https://farm1.staticflickr.com/594/21009211129_3b77faed17_z.jpg" %}}
+
 {{% flickr "Icy"
            ""
            "https://www.flickr.com/photos/cayco/21169849926/"
@@ -204,10 +189,7 @@
            "https://www.flickr.com/photos/cayco/21204044081/"
            "https://farm6.staticflickr.com/5648/21204044081_5b4a3956a0_z.jpg" %}}
 
-{{% flickr "Connection"
-           ""
-           "https://www.flickr.com/photos/cayco/21203923901/"
-           "https://farm6.staticflickr.com/5755/21203923901_884a07053e_z.jpg" %}}
+
 {{% flickr "DSC00002 (3)"
            ""
            "https://www.flickr.com/photos/cayco/21131383593/"
@@ -216,14 +198,8 @@
            ""
            "https://www.flickr.com/photos/cayco/21009293519/"
            "https://farm1.staticflickr.com/677/21009293519_c30550a724_z.jpg" %}}
-{{% flickr "Land mann"
-           ""
-           "https://www.flickr.com/photos/cayco/20573361214/"
-           "https://farm6.staticflickr.com/5767/20573361214_28349b5215_z.jpg" %}}
-{{% flickr "Road"
-           ""
-           "https://www.flickr.com/photos/cayco/21059444712/"
-           "https://farm1.staticflickr.com/728/21059444712_7bea221895_z.jpg" %}}
+
+
 {{% flickr "DSC00017 (7)"
            ""
            "https://www.flickr.com/photos/cayco/20575047143/"
@@ -256,10 +232,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21565548269/"
            "https://farm6.staticflickr.com/5772/21565548269_6d3e14eb29_z.jpg" %}}
-{{% flickr "Go to the desert!"
-           ""
-           "https://www.flickr.com/photos/cayco/21169775086/"
-           "https://farm1.staticflickr.com/576/21169775086_7f08b156c6_z.jpg" %}}
+
 
 {{% flickr "DSC00004 (4)"
            ""
@@ -309,10 +282,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21007966230/"
            "https://farm6.staticflickr.com/5638/21007966230_3704e49b10_z.jpg" %}}
-{{% flickr "Storm's coming!"
-           ""
-           "https://www.flickr.com/photos/cayco/21009227839/"
-           "https://farm6.staticflickr.com/5697/21009227839_5787203bed_z.jpg" %}}
+
 {{% flickr "DSC00009 (5)"
            ""
            "https://www.flickr.com/photos/cayco/21185725962/"
@@ -350,10 +320,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21204001721/"
            "https://farm1.staticflickr.com/674/21204001721_d677b00266_z.jpg" %}}
-{{% flickr "Common road"
-           ""
-           "https://www.flickr.com/photos/cayco/21169767306/"
-           "https://farm1.staticflickr.com/567/21169767306_2a2489bdf5_z.jpg" %}}
+
 
 {{% flickr "First sleep"
            ""
@@ -401,10 +368,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21008236088/"
            "https://farm1.staticflickr.com/678/21008236088_1ff95367e4_z.jpg" %}}
-{{% flickr "DSC00005 (4)"
-           ""
-           "https://www.flickr.com/photos/cayco/21565555479/"
-           "https://farm1.staticflickr.com/718/21565555479_986d3fceba_z.jpg" %}}
+
 {{% flickr "DSC00053 (3)-Edit"
            ""
            "https://www.flickr.com/photos/cayco/21204013841/"
