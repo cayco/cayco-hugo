@@ -4,7 +4,8 @@ title = "Krzysztof Kajkowski: podróże i wyprawy. Motocyklowe i nie tylko."
 theme = "cayco"
 disqusShortname = "krzysztofkajkowski"
 pluralizelisttitles = "false"
-
+contentdir = "content/pl"
+publishdir = "public/"
 
 [taxonomies]
 tag = "tagi"

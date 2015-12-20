@@ -55,19 +55,13 @@
            ""
            "https://www.flickr.com/photos/cayco/21185552922/"
            "https://farm1.staticflickr.com/678/21185552922_225ebb1e88_z.jpg" %}}
-{{% flickr "By the road"
-           ""
-           "https://www.flickr.com/photos/cayco/20574930453/"
-           "https://farm6.staticflickr.com/5679/20574930453_abd91d962c_z.jpg" %}}
+
 {{% flickr "DSC00034 (2)"
            ""
            "https://www.flickr.com/photos/cayco/21129713804/"
            "https://farm6.staticflickr.com/5702/21129713804_278c70dc05_z.jpg" %}}
 
-{{% flickr "Into the blue"
-           ""
-           "https://www.flickr.com/photos/cayco/21008011300/"
-           "https://farm1.staticflickr.com/635/21008011300_f4b102cf38_z.jpg" %}}
+go far
 {{% flickr "Plains"
            ""
            "https://www.flickr.com/photos/cayco/20574779243/"
@@ -104,57 +98,31 @@
            ""
            "https://www.flickr.com/photos/cayco/21007781500/"
            "https://farm1.staticflickr.com/741/21007781500_664d2641ee_z.jpg" %}}
-{{% flickr "Iceland's road"
-           ""
-           "https://www.flickr.com/photos/cayco/20915197651/"
-           "https://farm1.staticflickr.com/621/20915197651_fbdf8845cc_z.jpg" %}}
+
 
 {{% flickr "Nondescriptible"
            ""
            "https://www.flickr.com/photos/cayco/20546972713/"
            "https://farm6.staticflickr.com/5827/20546972713_6b1f1192c1_z.jpg" %}}
-{{% flickr "Sky"
-           ""
-           "https://www.flickr.com/photos/cayco/20448247653/"
-           "https://farm6.staticflickr.com/5765/20448247653_5d1f7229b1_z.jpg" %}}
-{{% flickr "One of many"
-           ""
-           "https://www.flickr.com/photos/cayco/21009237239/"
-           "https://farm6.staticflickr.com/5684/21009237239_284026e07e_z.jpg" %}}
+
+
 
 {{% flickr "The road"
            ""
            "https://www.flickr.com/photos/cayco/20771076878/"
            "https://farm6.staticflickr.com/5711/20771076878_20af45b674_z.jpg" %}}
-{{% flickr "DSC00016 (5)"
-           ""
-           "https://www.flickr.com/photos/cayco/21752446755/"
-           "https://farm1.staticflickr.com/746/21752446755_8343f994de_z.jpg" %}}
+
 {{% flickr "Foggy"
            ""
            "https://www.flickr.com/photos/cayco/21169619316/"
            "https://farm6.staticflickr.com/5677/21169619316_82506cd827_z.jpg" %}}
 
-{{% flickr "Icy"
-           ""
-           "https://www.flickr.com/photos/cayco/21169849926/"
-           "https://farm1.staticflickr.com/765/21169849926_dbac2e7867_z.jpg" %}}
-{{% flickr "Black beach"
-           ""
-           "https://www.flickr.com/photos/cayco/20939863541/"
-           "https://farm1.staticflickr.com/715/20939863541_5960d88107_z.jpg" %}}
-{{% flickr "Dakota #2"
-           ""
-           "https://www.flickr.com/photos/cayco/21213136792/"
-           "https://farm6.staticflickr.com/5633/21213136792_df37d06ba8_z.jpg" %}}
+
 {{% flickr "DSC00019 (3)"
            ""
            "https://www.flickr.com/photos/cayco/20573325054/"
            "https://farm6.staticflickr.com/5751/20573325054_d3f20b915a_z.jpg" %}}
-{{% flickr "Moon"
-           ""
-           "https://www.flickr.com/photos/cayco/20933686451/"
-           "https://farm6.staticflickr.com/5757/20933686451_29d061e1da_z.jpg" %}}
+
 
 {{% flickr "First gravel"
            ""
@@ -168,18 +136,9 @@
            ""
            "https://www.flickr.com/photos/cayco/21564611468/"
            "https://farm1.staticflickr.com/665/21564611468_9c036aeeee_z.jpg" %}}
-{{% flickr "Fill me up!"
-           ""
-           "https://www.flickr.com/photos/cayco/20573474884/"
-           "https://farm1.staticflickr.com/729/20573474884_7f30cd5165_z.jpg" %}}
-{{% flickr "peak"
-           ""
-           "https://www.flickr.com/photos/cayco/20574949643/"
-           "https://farm1.staticflickr.com/691/20574949643_d578d9e297_z.jpg" %}}
-{{% flickr "Gull!!"
-           ""
-           "https://www.flickr.com/photos/cayco/21196127205/"
-           "https://farm1.staticflickr.com/631/21196127205_746a0e7b93_z.jpg" %}}
+
+
+
 {{% flickr "DSC00012 (5)"
            ""
            "https://www.flickr.com/photos/cayco/21564456350/"
@@ -188,16 +147,16 @@
            ""
            "https://www.flickr.com/photos/cayco/21204044081/"
            "https://farm6.staticflickr.com/5648/21204044081_5b4a3956a0_z.jpg" %}}
-
+{{% flickr "End"
+           ""
+           "https://www.flickr.com/photos/cayco/21008262868/"
+           "https://farm1.staticflickr.com/740/21008262868_34170c639c_z.jpg" %}}
 
 {{% flickr "DSC00002 (3)"
            ""
            "https://www.flickr.com/photos/cayco/21131383593/"
            "https://farm1.staticflickr.com/713/21131383593_aef3e1ecf2_z.jpg" %}}
-{{% flickr "Where the wild goes"
-           ""
-           "https://www.flickr.com/photos/cayco/21009293519/"
-           "https://farm1.staticflickr.com/677/21009293519_c30550a724_z.jpg" %}}
+
 
 
 {{% flickr "DSC00017 (7)"
@@ -205,14 +164,8 @@
            "https://www.flickr.com/photos/cayco/20575047143/"
            "https://farm6.staticflickr.com/5776/20575047143_fbba4b4b26_z.jpg" %}}
 
-{{% flickr "Askja"
-           ""
-           "https://www.flickr.com/photos/cayco/21185362132/"
-           "https://farm1.staticflickr.com/643/21185362132_ec4c88468b_z.jpg" %}}
-{{% flickr "End"
-           ""
-           "https://www.flickr.com/photos/cayco/21008262868/"
-           "https://farm1.staticflickr.com/740/21008262868_34170c639c_z.jpg" %}}
+
+
 
 {{% flickr "DSC00002 (3)"
            ""
@@ -250,14 +203,8 @@
            "https://www.flickr.com/photos/cayco/20573271464/"
            "https://farm1.staticflickr.com/595/20573271464_3aa0cb4562_z.jpg" %}}
 
-{{% flickr "Road to"
-           ""
-           "https://www.flickr.com/photos/cayco/21008231228/"
-           "https://farm1.staticflickr.com/633/21008231228_f707b32030_z.jpg" %}}
-{{% flickr "River"
-           ""
-           "https://www.flickr.com/photos/cayco/21196116055/"
-           "https://farm1.staticflickr.com/657/21196116055_e3a223df61_z.jpg" %}}
+
+
 {{% flickr "Dakota"
            ""
            "https://www.flickr.com/photos/cayco/20719564010/"
@@ -292,10 +239,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21565620489/"
            "https://farm1.staticflickr.com/724/21565620489_016e9bc0e4_z.jpg" %}}
-{{% flickr "DSC00002 (8)"
-           ""
-           "https://www.flickr.com/photos/cayco/21752464415/"
-           "https://farm1.staticflickr.com/664/21752464415_aec2c24d7d_z.jpg" %}}
+
 {{% flickr "DSC00003 (8)"
            ""
            "https://www.flickr.com/photos/cayco/21752475015/"
@@ -336,10 +280,7 @@
            ""
            "https://www.flickr.com/photos/cayco/21752544415/"
            "https://farm1.staticflickr.com/728/21752544415_ce48972b19_z.jpg" %}}
-{{% flickr "Lunch time"
-           ""
-           "https://www.flickr.com/photos/cayco/21185743722/"
-           "https://farm1.staticflickr.com/576/21185743722_b06f5049e7_z.jpg" %}}
+
 {{% flickr "DSC00014 (6)"
            ""
            "https://www.flickr.com/photos/cayco/21196174745/"
@@ -356,10 +297,7 @@
            ""
            "https://www.flickr.com/photos/cayco/20574772003/"
            "https://farm6.staticflickr.com/5793/20574772003_a96bd8e1d7_z.jpg" %}}
-{{% flickr "End"
-           ""
-           "https://www.flickr.com/photos/cayco/20875247798/"
-           "https://farm1.staticflickr.com/579/20875247798_79854ab4d0_z.jpg" %}}
+
 {{% flickr "Faroe's roads"
            ""
            "https://www.flickr.com/photos/cayco/20932243705/"
@@ -374,18 +312,9 @@
            "https://www.flickr.com/photos/cayco/21204013841/"
            "https://farm1.staticflickr.com/576/21204013841_4ee0eb63ca_z.jpg" %}}
 
-{{% flickr "DSC00035 (2)"
-           ""
-           "https://www.flickr.com/photos/cayco/21007987060/"
-           "https://farm1.staticflickr.com/747/21007987060_738b24ef42_z.jpg" %}}
-{{% flickr "Kewl"
-           ""
-           "https://www.flickr.com/photos/cayco/21169854196/"
-           "https://farm6.staticflickr.com/5777/21169854196_b260ca44a6_z.jpg" %}}
-{{% flickr "Go Faroes!"
-           ""
-           "https://www.flickr.com/photos/cayco/21008212988/"
-           "https://farm6.staticflickr.com/5733/21008212988_59d3c5b144_z.jpg" %}}
+
+    
+
 
 {{% flickr "DSC00008 (4)"
            ""
