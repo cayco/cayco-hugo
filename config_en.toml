@@ -13,4 +13,4 @@ place = "places"
 
 [params]
     description = "Homepage for Krzysztof Kajkowski (cayco). You can find detailed descriptions of my motorcycle adventure trips. I also write on testing some outdoor gear. You will find all necessary information on what to take on a trip."
-    locale = "ja-JP"
+    locale = "en-US"

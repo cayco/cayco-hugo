@@ -8,15 +8,15 @@
     <language>pl-PL</language>
     <lastBuildDate>Fri, 04 Dec 2015 20:22:18 +0100</lastBuildDate>
     <atom:link href="https://www.cayco.pl/podroze/index.xml" rel="self" type="application/rss+xml" />
-
+    
     <item>
       <title>Chorwacja 2015</title>
       <link>https://www.cayco.pl/podroze/chorwacja15/</link>
       <pubDate>Fri, 04 Dec 2015 20:22:18 +0100</pubDate>
-
+      
       <guid>https://www.cayco.pl/podroze/chorwacja15/</guid>
       <description></description>
     </item>
-
+    
   </channel>
 </rss>

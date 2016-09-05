@@ -13,3 +13,4 @@ miejsce = "miejsca"
 
 [params]
     description = "Strona domowa Krzysztof Kajkowski (cayco). Relacje z wypraw motocyklowych i innych. Opisy sprzętu wyprawowego. Porady - co zabrać ze sobą na wyjazd do... Fotografia podróżna. Zapraszam!"
+    locale = "pl-PL"
