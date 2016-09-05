@@ -25,7 +25,6 @@ Zaplanowana trasa wyglądała mniej więcej tak:
 
 Do przejechania na miejscu około 5500-6000 km (90% offroad). W Rosji (ok. 900km) jest asfalt, chyba że się zjedzie w Ałtaj. W Mongolii asfalt jest bardzo sporadycznie (głównie w miastach) ale niestety nadal go przybywa.
 
-
 ### Przygotowanie motocykla
 
 Na to położyłem duży nacisk (jednak jak się okazało nadal był za mały...). Co zrobiłem:
