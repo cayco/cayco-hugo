@@ -28,7 +28,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://www.cayco.pl/" title="Strona domowa Krzysztof Kajkowski cayco">Krzysztof Kajkowski</a>. Wszystkie prawa zastrzeżone.
+                    &copy; 2015 <a target="_blank" href="https://www.cayco.pl/" title="Strona domowa Krzysztof Kajkowski cayco">Krzysztof Kajkowski</a>. Wszystkie prawa zastrzeżone.
                 </div>
                 <div class="col-sm-6">
                     <ul class="pull-right">
@@ -56,6 +56,15 @@ ga('create', 'UA-129155-9', 'auto');
 ga('require', 'linkid');
 ga('send', 'pageview');
 
+</script>
+<script src="/js/cookiechoices.js" defer></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+        (window.cookieOptions && cookieOptions.msg) || 'Na tej stronie używamy plików cookie Google, by móc świadczyć Ci usługi, personalizować reklamy i analizować ruch. Informacje o tym, jak korzystasz z tej strony, są udostępniane Google. Korzystając z niej, zgadzasz się na to.',
+        (window.cookieOptions && cookieOptions.close) || 'Rozumiem');
+  });
 </script>
 </body>
 </html>

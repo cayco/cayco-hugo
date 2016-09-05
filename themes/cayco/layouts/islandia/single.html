@@ -26,7 +26,7 @@
                 <div class="row">
                     <div class="col-sm-8">
                         <ul class="arrow">
-                            {{ range where $.Site.Taxonomies.tagi.islandia.Pages.ByDate "Section" "islandia15"  }}
+                            {{ range where $.Site.Taxonomies.tagi.islandia.Pages.ByDate "Section" "islandia"  }}
                                     <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
                             {{ end }}
                         </ul>
@@ -58,7 +58,7 @@
                                                                    
                     <h3>Islandia 2015 - dzień po dniu</h3>
                     <ul>
-                                {{ range where $.Site.Taxonomies.tagi.islandia.Pages.ByDate "Section" "islandia15"  }}
+                                {{ range where $.Site.Taxonomies.tagi.islandia.Pages.ByDate "Section" "islandia"  }}
                                     <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
                                 {{ end }}
                         
