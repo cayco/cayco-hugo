@@ -29,6 +29,9 @@ src="https://c3.staticflickr.com/9/8101/28697101914_52ce722926_z.jpg"
 width="640" height="427" alt="DSC03413.jpg"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+(fot. Peterka)
+
+
 Lotnisko jest ok 30km od miasta. Ja wziąłem taksówkę i zapłaciłem 1000 rubli. Nie mają oczywiście taksometru i oznaczeń Taxi...
 
 # Za miasto
@@ -65,6 +68,9 @@ src="https://c1.staticflickr.com/9/8167/29032237880_9b9f94de49_z.jpg"
 width="640" height="427" alt="DSC03505.jpg"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+(fot. Peterka)
+
+
 oraz stacyjki benzynowe
 
 <a data-flickr-embed="true"
@@ -73,6 +79,9 @@ title="DSC03507.jpg"><img
 src="https://c5.staticflickr.com/9/8667/29211926132_b5fd423aec_z.jpg"
 width="640" height="427" alt="DSC03507.jpg"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+(fot. Peterka)
+
 
 Po drodze spotkaliśmy Słowaków, którzy jechali do Ułan Bator na stareńkich
 Jawach. Np. mapę mieli taką:
