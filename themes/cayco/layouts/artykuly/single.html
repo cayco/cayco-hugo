@@ -1,0 +1,87 @@
+{{ partial "header.html" . }}
+
+    <section id="title" class="emerald">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>{{ .Title }}</h1>
+                    <p>{{ .Description }}</p>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="breadcrumb pull-right">
+                        <li><a href="{{ .Site.BaseURL }}">Strona główna</a></li>
+                        <li class="active">{{ .Title }}</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!--/#title-->     
+
+<section id="blog" class="container">
+    <div class="row">
+        <aside class="col-sm-4 col-sm-push-8">
+
+            <div class="widget categories">
+                <h3>Artykuły o zarządzaniu</h3>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <ul class="arrow">
+                            {{ range where $.Site.Taxonomies.tagi.zarządzanie.Pages.ByDate.Reverse "Section" "artykuly"  }}
+                                    <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget categories">
+                <h3>Artykuły z Gazety Studenckiej</h3>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <ul class="arrow">
+                            {{ range where $.Site.Taxonomies.tagi.studencka.Pages.ByDate.Reverse "Section" "artykuly"  }}
+                                    <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--/.categories-->
+
+            
+        </aside>
+        <div class="col-sm-8 col-sm-pull-4">
+            <div class="blog">
+                <div class="blog-item">
+            
+                    <div class="blog-content">
+                        <div style="float: right;">
+                        Czas czytania: {{ .ReadingTime }}min
+                        <br />
+                        Rok publikacji: {{ .Date.Format "2006" }}
+                        <br />
+                           <a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+                        <a href="//pl.pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fkentbrew%2F6851755809%2F&media=https%3A%2F%2Ffarm6.staticflickr.com%2F5645%2F23542679966_5163778c22_z.jpg&description=Przypnij%20na%20Pinterest" data-pin-do="buttonPin" data-pin-config="none" data-pin-color="red"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_red_20.png" align="right" /></a>
+<!-- Please call pinit.js only once per page -->
+<script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
+
+                            </div>
+                        <p class="lead">{{ .Params.lead }}</p>
+                        {{ .Content }} 
+                                                                   
+                                                                                   
+{{ partial "disqus.html" . }}
+
+                    </div>
+                </div>
+                <!--/.blog-item-->
+            </div>
+        </div>
+        <!--/.col-md-8-->
+    </div>
+    <!--/.row-->
+</section>
+<!--/#blog-->
+
+{{ partial "footer.html" . }}

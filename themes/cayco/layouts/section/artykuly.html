@@ -1,0 +1,132 @@
+{{ partial "header.html" . }}
+
+
+    <section id="title" class="emerald">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <h1>Moje artykuły</h1>
+                    <p>W zamierzchłych już czasach, w okolicach roku 2004-2006 kiedy pracowałem jako "informatyk" w Gazecie Studenckiej popełniłem kilka artykułów do tej gazety. </P>
+                    <p>Później napisałem kilka tekstów na angielskojęzycznym blogu - w temacie zarządzania projektami.</p>
+                    <p>Będę wrzucał tutaj sukcesywnie nowe artykuły, już takie bardziej aktualne.</p>
+                </div>
+                <div class="col-sm-6">
+                    <ul class="breadcrumb pull-right">
+                        <li><a href="{{ .Site.BaseURL }}">Strona główna</a></li>
+                        <li class="active">Artykuły</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section><!--/#title-->     
+
+<section id="blog" class="container">
+        <div class="row">
+            <aside class="col-sm-4 col-sm-push-8">
+                <div class="widget search">
+                    <form role="form">
+                        <div class="input-group">
+                            <input type="text" class="form-control" autocomplete="off" placeholder="Search">
+                            <span class="input-group-btn">
+                                <button class="btn btn-danger" type="button"><i class="icon-search"></i></button>
+                            </span>
+                        </div>
+                    </form>
+                </div><!--/.search-->    
+
+            <div class="widget categories">
+                <h3>Artykuły o zarządzaniu</h3>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <ul class="arrow">
+                            {{ range where $.Site.Taxonomies.tagi.zarządzanie.Pages.ByDate.Reverse "Section" "artykuly"  }}
+                                    <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="widget categories">
+                <h3>Artykuły z Gazety Studenckiej</h3>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <ul class="arrow">
+                            {{ range where $.Site.Taxonomies.tagi.studencka.Pages.ByDate.Reverse "Section" "artykuly"  }}
+                                    <li><a href="{{ .Permalink}}">{{ .LinkTitle }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!--/.categories-->
+
+            
+                <div class="widget tags">
+                    
+                    <h3>Tagi</h3>
+                    <ul class="tag-cloud">
+                        {{ range $tagi, $taxonomy := $.Site.Taxonomies.tagi }}
+                        <li><a class="btn btn-xs btn-primary" href="/tagi/{{ $tagi }}">{{ $tagi }}</a></li>
+                        {{ end }}
+                    </ul>
+                </div><!--/.tags-->
+
+                <div class="widget facebook-fanpage">
+                    <h3>Facebook </h3>
+                    <div class="widget-content">
+                        <div class="fb-page" data-href="https://www.facebook.com/Cayc0" data-small-header="false" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/Cayc0"><a href="https://www.facebook.com/Cayc0">Krzysztof Kajkowski</a></blockquote></div></div> 
+                    </div>
+                </div>
+            </aside>        
+            <div class="col-sm-8 col-sm-pull-4">
+     <section id="blog" class="container">
+
+
+                <div class="blog">
+
+
+{{ $paginator := .Paginate .Data.Pages }}
+
+{{ range .Paginator.Pages.ByDate.Reverse }}
+
+
+                    <div class="blog-item">
+                        <img class="img-responsive img-blog" src="{{ .Params.image }}" width="100%" alt="" />
+                        <div class="blog-content">
+                            <a href="{{ .Permalink }}"><h3>{{ .Title }}</h3></a>
+                            <div class="entry-meta">
+                                <span><i class="icon-user"></i> <a href="#">cayco</a></span>
+                              {{ range .Params.tagi }}
+                                <span><i class="icon-folder-close"></i> <a href="/tagi/{{ . }}">{{ . }}</a></span>
+                                {{ end }}
+                                <span><i class="icon-calendar"></i> {{ .Date.Format "2006-01-02" }}</span>
+<!--                                <span><i class="icon-comment"></i> <a href="blog-item.html#comments">3 Comments</a></span> -->
+                            </div>
+                            <p>{{ .Summary }}.</p>
+                            <a class="btn btn-default" href="{{ .Permalink }}">Dalej <i class="icon-angle-right"></i></a>
+                        </div>
+                    </div><!--/.blog-item-->                                                                            
+ {{ end }}                                      
+                                      
+                                       
+                    <ul class="pagination pagination-lg">  
+{{ if $paginator.HasNext }}
+
+  <li><a class="pagination-item older" href="{{ $paginator.Next.URL }}">Starsze<i class="icon-angle-left"></i></a></li>
+{{ else }}
+  <li><span class="pagination-item older">Starsze</span></li>
+{{ end }}
+
+{{ if $paginator.HasPrev }}
+  <li><a class="pagination-item newer" href="{{ $paginator.Prev.URL }}">Nowsze<i class="icon-angle-right"></i></a></li>
+{{ else }}
+  <li><span class="pagination-item newer">Nowsze</span></li>
+{{ end }}
+
+                    </ul><!--/.pagination-->
+                </div>
+       
+    </section><!--/#blog-->
+
+{{ partial "footer.html" . }}

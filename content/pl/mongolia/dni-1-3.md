@@ -1,5 +1,5 @@
 +++
-date = "2015-08-05" 
+date = "2016-08-05" 
 title = "Dni 1, 2 i 3 - dojazd do granicy Rosja - Mongolia"
 image = "https://c8.staticflickr.com/8/7741/29320159775_69d3e7338c_z.jpg" 
 tagi = [ "Mongolia", "wyprawy", "motocykl" , "Rosja" ] 
@@ -19,7 +19,7 @@ src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Nowosybirsk
 
-[Nowosybirsk](https://pl.wikipedia.org/wiki/Nowosybirsk) to trzecie co dowielkości miasto w Rosji. Mieszka w nim 1.5mln ludzi - jest największe naSyberii. Na miejscu można kupić praktycznie wszystko - centra handlowewyglądają zupełnie jak w Polsce (np. jest Ikea, Auchan). Jednak duża część miasta nosi wyraźne sowieckie dziedzictwo i nowoczesność
+[Nowosybirsk](https://pl.wikipedia.org/wiki/Nowosybirsk) to trzecie co do wielkości miasto w Rosji. Mieszka w nim 1.5mln ludzi - jest największe na Syberii. Na miejscu można kupić praktycznie wszystko - centra handlowe wyglądają zupełnie jak w Polsce (np. jest Ikea, Auchan). Jednak duża część miasta nosi wyraźne sowieckie dziedzictwo i nowoczesność
 przeplata się z pozostałościami po komunie i dzikimi latami 90'.
 
 <a data-flickr-embed="true"
@@ -49,7 +49,7 @@ Spaliśmy w Bijsku, w parafii katolickiej prowadzonej przez polskiego księdza.B
 
 # Ałtaj rosyjski
 
-Za Bijskiem zaczynają się góry, lasy i wogóle robi się ładniej. Do granicy jest kolejne 450km.
+Za Bijskiem zaczynają się góry, lasy i w ogóle robi się ładniej. Do granicy jest kolejne 450km.
 
 <a data-flickr-embed="true"
 href="https://www.flickr.com/photos/cayco/29320159775/in/album-72157669961001633/"
@@ -120,7 +120,7 @@ src="https://c2.staticflickr.com/9/8475/28700344833_a47c262a12_z.jpg"
 width="640" height="427" alt="DSC00032.jpg"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Śpimy za Aktasz, na kempingu. Jak się okazuje nie warto za to płacić. Kibel tozwykła słowojka (ale śmierdzi okrutnie), wodę do mycia i picia trzeba sobienosić z rzeki no i obsługa średnio miła.# Ałtaj - góry
+Śpimy za Aktasz, na kempingu. Jak się okazuje nie warto za to płacić. Kibel to zwykła sławojka (ale śmierdzi okrutnie), wodę do mycia i picia trzeba sobie nosić z rzeki no i obsługa średnio miła.# Ałtaj - góry
 
 Za Ałtajem z lasami zaczyna się Ałtaj bez lasu ;)
 
@@ -131,7 +131,7 @@ src="https://c7.staticflickr.com/9/8013/29033452750_d12e4b0368_z.jpg"
 width="640" height="427" alt="DSC00039.jpg"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Warto zapuścić się tam na dłuższy wypad. Blisko głównej drogi leżą czerwonegóry - kilka km przed Kosz-Agacz. Z głównej drogi należy skręcić w prawoi przez wieś wyjeżdża się w stronę gór.
+Warto zapuścić się tam na dłuższy wypad. Blisko głównej drogi leżą czerwone góry - kilka km przed Kosz-Agacz. Z głównej drogi należy skręcić w prawo i przez wieś wyjeżdża się w stronę gór.
 
 <a data-flickr-embed="true"
 href="https://www.flickr.com/photos/cayco/29286377706/in/album-72157669961001633/"
@@ -191,7 +191,7 @@ src="https://c8.staticflickr.com/9/8478/29242664471_fac59cf11a_z.jpg"
 width="640" height="360" alt="DSC_0628.jpg"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Po raz pierwszy widać niebo nie skażone światłami cywilizacji. Pięknie prezentuje się Droga Mleczna no i zauważam meteoryt (bolida tak naprawdę).
+Po raz pierwszy widać niebo nie skażone światłami cywilizacji. Pięknie prezentuje się Droga Mleczna no i zauważam meteoryt (bolid tak naprawdę).
 
 Jest dość zimno, szczególnie po zmroku. To chyba też przez wysokość - ok 2000m n.p.m. Rano trzeba wcześnie wstać żeby nie stracić za dużo czasu na granicy.
 
